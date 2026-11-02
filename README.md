@@ -24,15 +24,15 @@ Projeto de Business Intelligence desenvolvido no Power BI com o objetivo de anal
 ## 📑 Estrutura do Dashboard
 
 ### 1. Visão Geral de Vendas
-
+![Visão Geral de Vendas](Imagens/visao-geral.png)
 Visão consolidada dos principais indicadores de desempenho comercial.
 
 ### 2. Análise de Produtos
-
+![Análise de Produtos](Imagens/analise-produtos.png)
 Análise de desempenho dos produtos e categorias, identificando os itens com maior volume de vendas.
 
 ### 3. Análise Temporal de Vendas
-
+![Análise Temporal de Vendas](Imagens/analise-temporal.png)
 Acompanhamento da evolução das vendas ao longo do tempo, permitindo identificar tendências e variações de desempenho.
 
 ## 🎯 Objetivo
